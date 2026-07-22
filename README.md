@@ -1,4 +1,4 @@
-# saisharan0103-amazon-braket-examples
+# Praneeth-amazon-braket-examples
 
 A cleaned public version of this repository.
 
@@ -7,3 +7,4 @@ Concise reference copy for public sharing.
 
 ## Notes
 Personal names are intentionally omitted.
+
